@@ -1,6 +1,9 @@
 # PointCNN using Pytorch
 **Dataset: ModelNet40**
 
+# Known Problem
+Model not converge after rewrite the self-defined data loader to utilise `torch.utils.data.Dataset` and `torch.utils.data.Dataloader`. 
+
 ## Reference
 This work is based on [hxdengBerkeley's PointCNN.Pytorch](https://github.com/hxdengBerkeley/PointCNN.Pytorch). A Pytorch implementation of PointCNN.
 
