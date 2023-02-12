@@ -17,7 +17,7 @@ Many improvements have been done to increase the GPU efficiency (was 95% of the 
 * _Adjustable train set size (randomly select data but considering distribution over classes)**(Under implementation)**_
 
 ## Environment
-This project relies on a variety of packages. To make the environment building-up process more straightaway, a configuration file, ```xconv_conda_env_setup.yml```, is provided. It is recommended to use Anaconda to install the environment.
+This project relies on a variety of packages. To make the environment building-up process more straightforward, a configuration file, ```xconv_conda_env_setup.yml```, is provided. It is recommended to use Anaconda to install the environment.
 
 For getting and installing Anaconda, Please visit [Anaconda's official website](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) to download and install 
 the Anaconda on your devices.
